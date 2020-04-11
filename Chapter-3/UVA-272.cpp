@@ -4,8 +4,6 @@
 #include<algorithm>
 using namespace std;
 
-char s[10000];
-
 int main() {
 	int i,j,k,c;
 	bool flag=false;
