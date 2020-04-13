@@ -16,3 +16,16 @@
     [问题PDF](Chapter-3/UVA-340.pdf)  [答案代码](Chapter-3/UVA-340.cpp)  
     * UVA-1583 生成元 
     [问题PDF](Chapter-3/UVA-1583.pdf)  [答案代码](Chapter-3/UVA-1583.cpp)  
+    * UVA-1584 环状序列 
+    [问题PDF](Chapter-3/UVA-1584.pdf)  [答案代码](Chapter-3/UVA-1584.cpp)  
+* 习题答案
+    * UVA-1585 得分 
+    [问题PDF](Chapter-3/UVA-1585.pdf)  [答案代码](Chapter-3/UVA-1585.cpp)  
+    * UVA-1586 分子量 
+    [问题PDF](Chapter-3/UVA-1586.pdf)  [答案代码](Chapter-3/UVA-1586.cpp) 
+    * UVA-1225 数数字 
+    [问题PDF](Chapter-3/UVA-1225.pdf)  [答案代码](Chapter-3/UVA-1225.cpp) 
+    * UVA-455 周期串 
+    [问题PDF](Chapter-3/UVA-455.pdf)  [答案代码](Chapter-3/UVA-455.cpp) 
+    * UVA-227 谜题 
+    [问题PDF](Chapter-3/UVA-227.pdf)  [答案代码](Chapter-3/UVA-227.cpp) 
