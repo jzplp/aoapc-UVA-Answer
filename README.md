@@ -29,3 +29,11 @@
     [问题PDF](Chapter-3/UVA-455.pdf)  [答案代码](Chapter-3/UVA-455.cpp) 
     * UVA-227 谜题 
     [问题PDF](Chapter-3/UVA-227.pdf)  [答案代码](Chapter-3/UVA-227.cpp) 
+    * UVA-232 纵横字谜的答案 
+    [问题PDF](Chapter-3/UVA-232.pdf)  [答案代码](Chapter-3/UVA-232.cpp) 
+    * UVA-1368 DNA序列 
+    [问题PDF](Chapter-3/UVA-1368.pdf)  [答案代码](Chapter-3/UVA-1368.cpp) 
+    * UVA-202 循环小数 
+    [问题PDF](Chapter-3/UVA-202.pdf)  [答案代码](Chapter-3/UVA-202.cpp) 
+    * UVA-10340 子序列 
+    [问题PDF](Chapter-3/UVA-10340.pdf)  [答案代码](Chapter-3/UVA-10340.cpp) 
