@@ -37,3 +37,10 @@
     [问题PDF](Chapter-3/UVA-202.pdf)  [答案代码](Chapter-3/UVA-202.cpp) 
     * UVA-10340 子序列 
     [问题PDF](Chapter-3/UVA-10340.pdf)  [答案代码](Chapter-3/UVA-10340.cpp) 
+    * UVA-1587 盒子 
+    [问题PDF](Chapter-3/UVA-1587.pdf)  [答案代码](Chapter-3/UVA-1587.cpp) 
+    * UVA-1588 换低挡装置 
+    [问题PDF](Chapter-3/UVA-1588.pdf)  [答案代码](Chapter-3/UVA-1588.cpp) 
+    * UVA-11809 浮点数 
+    [问题PDF](Chapter-3/UVA-11809.pdf)  [答案代码](Chapter-3/UVA-11809.cpp) 
+    
