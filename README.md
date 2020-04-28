@@ -43,4 +43,8 @@
     [问题PDF](Chapter-3/UVA-1588.pdf)  [答案代码](Chapter-3/UVA-1588.cpp) 
     * UVA-11809 浮点数 
     [问题PDF](Chapter-3/UVA-11809.pdf)  [答案代码](Chapter-3/UVA-11809.cpp) 
+#### 第四章 函数和递归  
+* 例题答案
+    * UVA-1339 古老的密码 
+    [问题PDF](Chapter-4/UVA-1339.pdf)  [答案代码](Chapter-4/UVA-1339.cpp)  
     
