@@ -47,4 +47,8 @@
 * 例题答案
     * UVA-1339 古老的密码 
     [问题PDF](Chapter-4/UVA-1339.pdf)  [答案代码](Chapter-4/UVA-1339.cpp)  
+    * UVA-489 刽子手游戏 
+    [问题PDF](Chapter-4/UVA-489.pdf)  [答案代码](Chapter-4/UVA-489.cpp)  
+    * UVA-133 救济金发放 
+    [问题PDF](Chapter-4/UVA-133.pdf)  [答案代码](Chapter-4/UVA-133.cpp)  
     
