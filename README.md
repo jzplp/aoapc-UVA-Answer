@@ -51,4 +51,5 @@
     [问题PDF](Chapter-4/UVA-489.pdf)  [答案代码](Chapter-4/UVA-489.cpp)  
     * UVA-133 救济金发放 
     [问题PDF](Chapter-4/UVA-133.pdf)  [答案代码](Chapter-4/UVA-133.cpp)  
-    
+    * UVA-213 信息解码 
+    [问题PDF](Chapter-4/UVA-213.pdf)  [答案代码](Chapter-4/UVA-213.cpp)  
