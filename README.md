@@ -53,3 +53,5 @@
     [问题PDF](Chapter-4/UVA-133.pdf)  [答案代码](Chapter-4/UVA-133.cpp)  
     * UVA-213 信息解码 
     [问题PDF](Chapter-4/UVA-213.pdf)  [答案代码](Chapter-4/UVA-213.cpp)  
+    * UVA-512 追踪电子表格中的单元格 
+    [问题PDF](Chapter-4/UVA-512.pdf)  [答案代码](Chapter-4/UVA-512.cpp)  
