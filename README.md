@@ -57,5 +57,10 @@
     [问题PDF](Chapter-4/UVA-512.pdf)  [答案代码](Chapter-4/UVA-512.cpp)  
     * UVA-12412 师兄帮帮忙 
     [问题PDF](Chapter-4/UVA-12412.pdf)  [答案代码](Chapter-4/UVA-12412.cpp)  
+* 习题答案
     * UVA-1589 象棋 
     [问题PDF](Chapter-4/UVA-1589.pdf)  [答案代码](Chapter-4/UVA-1589.cpp)  
+    * UVA-201 正方形 
+    [问题PDF](Chapter-4/UVA-201.pdf)  [答案代码](Chapter-4/UVA-201.cpp)  
+    * UVA-220 黑白棋 
+    [问题PDF](Chapter-4/UVA-220.pdf)  [答案代码](Chapter-4/UVA-220.cpp)  
