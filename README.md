@@ -55,3 +55,4 @@
 | 习题4-4 | UVA-253 | 骰子涂色 | [问题PDF](Chapter-4/UVA-253.pdf) | [答案代码](Chapter-4/UVA-253.cpp) |
 | 习题4-5 | UVA-1590 | IP网络 | [问题PDF](Chapter-4/UVA-1590.pdf) | [答案代码](Chapter-4/UVA-1590.cpp) |
 | 习题4-6 | UVA-508 | 莫尔斯电码 | [问题PDF](Chapter-4/UVA-508.pdf) | [答案代码](Chapter-4/UVA-508.cpp) |
+| 习题4-7 | UVA-509 | RAID技术 | [问题PDF](Chapter-4/UVA-509.pdf) | [答案代码](Chapter-4/UVA-509.cpp) |
