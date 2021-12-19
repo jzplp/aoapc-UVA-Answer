@@ -58,3 +58,4 @@
 | 习题4-7 | UVA-509 | RAID技术 | [问题PDF](Chapter-4/UVA-509.pdf) | [答案代码](Chapter-4/UVA-509.cpp) |
 | 习题4-8 | UVA-12108 | 特别困的学生 | [问题PDF](Chapter-4/UVA-12108.pdf) | [答案代码](Chapter-4/UVA-12108.cpp) |
 | 习题4-9 | UVA-1591 | 数据挖掘 | [问题PDF](Chapter-4/UVA-1591.pdf) | [答案代码](Chapter-4/UVA-1591.cpp) |
+| 习题4-10 | UVA-815 | 洪水！ | [问题PDF](Chapter-4/UVA-815.pdf) | [答案代码](Chapter-4/UVA-815.cpp) |
