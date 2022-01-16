@@ -59,3 +59,10 @@
 | 习题4-8 | UVA-12108 | 特别困的学生 | [问题PDF](Chapter-4/UVA-12108.pdf) | [答案代码](Chapter-4/UVA-12108.cpp) |
 | 习题4-9 | UVA-1591 | 数据挖掘 | [问题PDF](Chapter-4/UVA-1591.pdf) | [答案代码](Chapter-4/UVA-1591.cpp) |
 | 习题4-10 | UVA-815 | 洪水！ | [问题PDF](Chapter-4/UVA-815.pdf) | [答案代码](Chapter-4/UVA-815.cpp) |
+
+#### 第五章 C++与STL入门  
+* 例题答案
+
+| 题号 | UVA号 | 题目 | 题目PDF | 答案链接 | 
+:---: | :---: | :---: | :---: | :---: 
+| 例题5-1 | UVA-10474 | 大理石在哪儿 | [问题PDF](Chapter-5/UVA-10474.pdf) | [答案代码](Chapter-5/UVA-10474.cpp) |
