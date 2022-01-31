@@ -2,7 +2,6 @@
 #include<vector>
 #include<iostream>
 #include<string>
-#include<sstream>
 
 using namespace std;
 vector<int> v[26];
@@ -124,9 +123,7 @@ int main() {
 			v[i].push_back(i);
 		}
 		while(1) {
-			cin >> line;
-			istringstream is(line);
-			is >> word1;
+			cin >> word1;
 			if(word1 == "quit") {
 				break;
 			}
