@@ -68,3 +68,4 @@
 | 例题5-1 | UVA-10474 | 大理石在哪儿 | [问题PDF](Chapter-5/UVA-10474.pdf) | [答案代码](Chapter-5/UVA-10474.cpp) |
 | 例题5-2 | UVA-101 | 木块问题 | [问题PDF](Chapter-5/UVA-101.pdf) | [答案代码](Chapter-5/UVA-101.cpp) |
 | 例题5-3 | UVA-10815 | 安迪的第一个字典 | [问题PDF](Chapter-5/UVA-10815.pdf) | [答案代码](Chapter-5/UVA-10815.cpp) |
+| 例题5-4 | UVA-156 | 反片语 | [问题PDF](Chapter-5/UVA-156.pdf) | [答案代码](Chapter-5/UVA-156.cpp) |
