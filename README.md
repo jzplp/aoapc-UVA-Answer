@@ -71,3 +71,4 @@
 | 例题5-4 | UVA-156 | 反片语 | [问题PDF](Chapter-5/UVA-156.pdf) | [答案代码](Chapter-5/UVA-156.cpp) |
 | 例题5-5 | UVA-12096 | 集合栈计算机 | [问题PDF](Chapter-5/UVA-12096.pdf) | [答案代码](Chapter-5/UVA-12096.cpp) |
 | 例题5-6 | UVA-540 | 团体队列 | [问题PDF](Chapter-5/UVA-540.pdf) | [答案代码](Chapter-5/UVA-540.cpp) |
+| 例题5-7 | UVA-136 | 丑数 | [问题PDF](Chapter-5/UVA-136.pdf) | [答案代码](Chapter-5/UVA-136.cpp) |
