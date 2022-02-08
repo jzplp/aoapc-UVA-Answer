@@ -74,3 +74,4 @@
 | 例题5-7 | UVA-136 | 丑数 | [问题PDF](Chapter-5/UVA-136.pdf) | [答案代码](Chapter-5/UVA-136.cpp) |
 | 例题5-8 | UVA-400 | Unixls命令 | [问题PDF](Chapter-5/UVA-400.pdf) | [答案代码](Chapter-5/UVA-400.cpp) |
 | 例题5-9 | UVA-1592 | 数据库 | [问题PDF](Chapter-5/UVA-1592.pdf) | [答案代码](Chapter-5/UVA-1592.cpp) |
+| 例题5-10 | UVA-207 | PGA巡回赛的奖金 | [问题PDF](Chapter-5/UVA-207.pdf) | [答案代码](Chapter-5/UVA-207.cpp) |
