@@ -76,4 +76,5 @@
 | 例题5-9 | UVA-1592 | 数据库 | [问题PDF](Chapter-5/UVA-1592.pdf) | [答案代码](Chapter-5/UVA-1592.cpp) |
 | 例题5-10 | UVA-207 | PGA巡回赛的奖金 | [问题PDF](Chapter-5/UVA-207.pdf) | [答案代码](Chapter-5/UVA-207.cpp) |
 | 例题5-11 | UVA-814 | 邮件传输代理的交互 | [问题PDF](Chapter-5/UVA-814.pdf) | [答案代码](Chapter-5/UVA-814.cpp) |
+| 例题5-12 | UVA-221 | 城市正视图 | [问题PDF](Chapter-5/UVA-221.pdf) | [答案代码](Chapter-5/UVA-221.cpp) |
 
