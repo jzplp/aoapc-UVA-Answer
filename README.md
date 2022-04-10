@@ -86,3 +86,5 @@
 | 习题5-2 | UVA-1594 | Ducci序列 | [问题PDF](Chapter-5/UVA-1594.pdf) | [答案代码](Chapter-5/UVA-1594.cpp) |
 | 习题5-3 | UVA-10935 | 卡片游戏 | [问题PDF](Chapter-5/UVA-10935.pdf) | [答案代码](Chapter-5/UVA-10935.cpp) |
 | 习题5-4 | UVA-10763 | 交换学生 | [问题PDF](Chapter-5/UVA-10763.pdf) | [答案代码](Chapter-5/UVA-10763.cpp) |
+| 习题5-5 | UVA-10391 | 复合词 | [问题PDF](Chapter-5/UVA-10391.pdf) | [答案代码](Chapter-5/UVA-10391.cpp) |
+
