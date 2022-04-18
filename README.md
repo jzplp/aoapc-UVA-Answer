@@ -90,4 +90,4 @@
 | 习题5-6 | UVA-1595 | 对称轴 | [问题PDF](Chapter-5/UVA-1595.pdf) | [答案代码](Chapter-5/UVA-1595.cpp) |
 | 习题5-7 | UVA-12100 | 打印队列 | [问题PDF](Chapter-5/UVA-12100.pdf) | [答案代码](Chapter-5/UVA-12100.cpp) |
 | 习题5-8 | UVA-230 | 图书管理系统 | [问题PDF](Chapter-5/UVA-230.pdf) | [答案代码](Chapter-5/UVA-230.cpp) |
-
+| 习题5-9 | UVA-1596 | 找bug | [问题PDF](Chapter-5/UVA-1596.pdf) | [答案代码](Chapter-5/UVA-1596.cpp) |
