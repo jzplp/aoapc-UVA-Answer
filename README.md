@@ -94,3 +94,5 @@
 | 习题5-10 | UVA-1597 | 在Web中搜索 | [问题PDF](Chapter-5/UVA-1597.pdf) | [答案代码](Chapter-5/UVA-1597.cpp) |
 | 习题5-11 | UVA-12504 | 更新字典 | [问题PDF](Chapter-5/UVA-12504.pdf) | [答案代码](Chapter-5/UVA-12504.cpp) |
 | 习题5-12 | UVA-511 | 地图查询 | [问题PDF](Chapter-5/UVA-511.pdf) | [答案代码](Chapter-5/UVA-511.cpp) |
+| 习题5-13 | UVA-822 | 客户中心模拟 | [问题PDF](Chapter-5/UVA-822.pdf) | [答案代码](Chapter-5/UVA-822.cpp) |
+
