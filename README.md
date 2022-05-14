@@ -96,3 +96,5 @@
 | 习题5-12 | UVA-511 | 地图查询 | [问题PDF](Chapter-5/UVA-511.pdf) | [答案代码](Chapter-5/UVA-511.cpp) |
 | 习题5-13 | UVA-822 | 客户中心模拟 | [问题PDF](Chapter-5/UVA-822.pdf) | [答案代码](Chapter-5/UVA-822.cpp) |
 | 习题5-14 | UVA-1598 | 交易所 | [问题PDF](Chapter-5/UVA-1598.pdf) | [答案代码](Chapter-5/UVA-1598.cpp) |
+| 习题5-15 | UVA-12333 | Fibonacci的复仇 | [问题PDF](Chapter-5/UVA-12333.pdf) | [答案代码](Chapter-5/UVA-12333.cpp) |
+
