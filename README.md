@@ -99,3 +99,9 @@
 | 习题5-15 | UVA-12333 | Fibonacci的复仇 | [问题PDF](Chapter-5/UVA-12333.pdf) | [答案代码](Chapter-5/UVA-12333.cpp) |
 | 习题5-16 | UVA-212 | 医院设备利用 | [问题PDF](Chapter-5/UVA-212.pdf) | [答案代码](Chapter-5/UVA-212.cpp) |
 
+#### 第六章 数据结构基础  
+* 例题答案
+
+| 题号 | UVA号 | 题目 | 题目PDF | 答案链接 | 
+:---: | :---: | :---: | :---: | :---: 
+| 例题6-1 | UVA-210 | 并行程序模拟 | [问题PDF](Chapter-6/UVA-210.pdf) | [答案代码](Chapter-6/UVA-210.cpp) |
