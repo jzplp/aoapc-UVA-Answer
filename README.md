@@ -106,4 +106,4 @@
 :---: | :---: | :---: | :---: | :---: 
 | 例题6-1 | UVA-210 | 并行程序模拟 | [问题PDF](Chapter-6/UVA-210.pdf) | [答案代码](Chapter-6/UVA-210.cpp) |
 | 例题6-2 | UVA-514 | 铁轨 | [问题PDF](Chapter-6/UVA-514.pdf) | [答案代码](Chapter-6/UVA-514.cpp) |
-
+| 例题6-3 | UVA-442 | 矩阵链乘 | [问题PDF](Chapter-6/UVA-442.pdf) | [答案代码](Chapter-6/UVA-442.cpp) |
