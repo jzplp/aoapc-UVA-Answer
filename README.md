@@ -110,4 +110,5 @@
 | 例题6-4 | UVA-11988 | 破损的键盘（ 又名： 悲剧文本） | [问题PDF](Chapter-6/UVA-11988.pdf) | [答案代码](Chapter-6/UVA-11988.cpp) |
 | 例题6-5 | UVA-12657 | 移动盒子 | [问题PDF](Chapter-6/UVA-12657.pdf) | [答案代码](Chapter-6/UVA-12657.cpp) |
 | 例题6-6 | UVA-679 | 小球下落 | [问题PDF](Chapter-6/UVA-679.pdf) | [答案代码](Chapter-6/UVA-679.cpp) |
+| 例题6-6 | UVA-122 | 树的层次遍历 | [问题PDF](Chapter-6/UVA-122.pdf) | [答案代码](Chapter-6/UVA-122.cpp) |
 
