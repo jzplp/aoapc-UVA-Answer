@@ -115,4 +115,5 @@
 | 例题6-9 | UVA-839 | 天平 | [问题PDF](Chapter-6/UVA-839.pdf) | [答案代码](Chapter-6/UVA-839.cpp) |
 | 例题6-10 | UVA-699 | 下落的树叶 | [问题PDF](Chapter-6/UVA-699.pdf) | [答案代码](Chapter-6/UVA-699.cpp) |
 | 例题6-11 | UVA-297 | 四分树 | [问题PDF](Chapter-6/UVA-297.pdf) | [答案代码](Chapter-6/UVA-297.cpp) |
+| 例题6-12 | UVA-572 | 油田 | [问题PDF](Chapter-6/UVA-572.pdf) | [答案代码](Chapter-6/UVA-572.cpp) |
 
