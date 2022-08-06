@@ -113,4 +113,5 @@
 | 例题6-7 | UVA-122 | 树的层次遍历 | [问题PDF](Chapter-6/UVA-122.pdf) | [答案代码](Chapter-6/UVA-122.cpp) |
 | 例题6-8 | UVA-548 | 树 | [问题PDF](Chapter-6/UVA-548.pdf) | [答案代码](Chapter-6/UVA-548.cpp) |
 | 例题6-9 | UVA-839 | 天平 | [问题PDF](Chapter-6/UVA-839.pdf) | [答案代码](Chapter-6/UVA-839.cpp) |
+| 例题6-10 | UVA-699 | 下落的树叶 | [问题PDF](Chapter-6/UVA-699.pdf) | [答案代码](Chapter-6/UVA-699.cpp) |
 
