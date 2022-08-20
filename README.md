@@ -117,4 +117,5 @@
 | 例题6-11 | UVA-297 | 四分树 | [问题PDF](Chapter-6/UVA-297.pdf) | [答案代码](Chapter-6/UVA-297.cpp) |
 | 例题6-12 | UVA-572 | 油田 | [问题PDF](Chapter-6/UVA-572.pdf) | [答案代码](Chapter-6/UVA-572.cpp) |
 | 例题6-13 | UVA-1103 | 古代象形符号 | [问题PDF](Chapter-6/UVA-1103.pdf) | [答案代码](Chapter-6/UVA-1103.cpp) |
+| 例题6-14 | UVA-816 | Abbott的复仇 | [问题PDF](Chapter-6/UVA-816.pdf) | [答案代码](Chapter-6/UVA-816.cpp) |
 
