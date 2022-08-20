@@ -118,4 +118,5 @@
 | 例题6-12 | UVA-572 | 油田 | [问题PDF](Chapter-6/UVA-572.pdf) | [答案代码](Chapter-6/UVA-572.cpp) |
 | 例题6-13 | UVA-1103 | 古代象形符号 | [问题PDF](Chapter-6/UVA-1103.pdf) | [答案代码](Chapter-6/UVA-1103.cpp) |
 | 例题6-14 | UVA-816 | Abbott的复仇 | [问题PDF](Chapter-6/UVA-816.pdf) | [答案代码](Chapter-6/UVA-816.cpp) |
+| 例题6-15 | UVA-10305 | 给任务排序 | [问题PDF](Chapter-6/UVA-10305.pdf) | [答案代码](Chapter-6/UVA-10305.cpp) |
 
