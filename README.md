@@ -119,5 +119,7 @@
 | 例题6-13 | UVA-1103 | 古代象形符号 | [问题PDF](Chapter-6/UVA-1103.pdf) | [答案代码](Chapter-6/UVA-1103.cpp) |
 | 例题6-14 | UVA-816 | Abbott的复仇 | [问题PDF](Chapter-6/UVA-816.pdf) | [答案代码](Chapter-6/UVA-816.cpp) |
 | 例题6-15 | UVA-10305 | 给任务排序 | [问题PDF](Chapter-6/UVA-10305.pdf) | [答案代码](Chapter-6/UVA-10305.cpp) |
-| 例题6-16 | UVA-10129 | 10129 | [问题PDF](Chapter-6/UVA-10129.pdf) | [答案代码](Chapter-6/UVA-10129.cpp) |
+| 例题6-16 | UVA-10129 | 单词 | [问题PDF](Chapter-6/UVA-10129.pdf) | [答案代码](Chapter-6/UVA-10129.cpp) |
+| 例题6-17 | UVA-10562 | 看图写树 | [问题PDF](Chapter-6/UVA-10562.pdf) | [答案代码](Chapter-6/UVA-10562.cpp) |
+
 
