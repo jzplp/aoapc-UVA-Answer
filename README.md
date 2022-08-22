@@ -121,5 +121,5 @@
 | 例题6-15 | UVA-10305 | 给任务排序 | [问题PDF](Chapter-6/UVA-10305.pdf) | [答案代码](Chapter-6/UVA-10305.cpp) |
 | 例题6-16 | UVA-10129 | 单词 | [问题PDF](Chapter-6/UVA-10129.pdf) | [答案代码](Chapter-6/UVA-10129.cpp) |
 | 例题6-17 | UVA-10562 | 看图写树 | [问题PDF](Chapter-6/UVA-10562.pdf) | [答案代码](Chapter-6/UVA-10562.cpp) |
-
+| 例题6-18* | UVA-12171 | 雕塑 | [问题PDF](Chapter-6/UVA-12171.pdf) | [答案代码](Chapter-6/UVA-12171.cpp) |
 
