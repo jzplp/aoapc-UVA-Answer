@@ -124,4 +124,5 @@
 | 例题6-18* | UVA-12171 | 雕塑 | [问题PDF](Chapter-6/UVA-12171.pdf) | [答案代码](Chapter-6/UVA-12171.cpp) |
 | 例题6-19 | UVA-1572 | 自组合 | [问题PDF](Chapter-6/UVA-1572.pdf) | [答案代码](Chapter-6/UVA-1572.cpp) |
 | 例题6-20 | UVA-1599 | 理想路径 | [问题PDF](Chapter-6/UVA-1599.pdf) | [答案代码](Chapter-6/UVA-1599.cpp) |
+| 例题6-21 | UVA-506 | 系统依赖 | [问题PDF](Chapter-6/UVA-506.pdf) | [答案代码](Chapter-6/UVA-506.cpp) |
 
