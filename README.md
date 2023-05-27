@@ -125,6 +125,23 @@
 | 例题6-19 | UVA-1572 | 自组合 | [问题PDF](Chapter-6/UVA-1572.pdf) | [答案代码](Chapter-6/UVA-1572.cpp) |
 | 例题6-20 | UVA-1599 | 理想路径 | [问题PDF](Chapter-6/UVA-1599.pdf) | [答案代码](Chapter-6/UVA-1599.cpp) |
 | 例题6-21 | UVA-506 | 系统依赖 | [问题PDF](Chapter-6/UVA-506.pdf) | [答案代码](Chapter-6/UVA-506.cpp) |
-| 例题6-22 | UVA-11853 | 战场 | [问题PDF](Chapter-6/UVA-11853.pdf) | [答案代码](Chapter-6/UVA-11853.cpp) |
+| 例题6-22* | UVA-11853 | 战场 | [问题PDF](Chapter-6/UVA-11853.pdf) | [答案代码](Chapter-6/UVA-11853.cpp) |
 
+* 习题答案
 
+| 题号 | UVA号 | 题目 | 题目PDF | 答案链接 | 
+:---: | :---: | :---: | :---: | :---: 
+| 习题6-1 | UVA-673 | 平衡的括号 | [问题PDF](Chapter-6/UVA-673.pdf) | [答案代码](Chapter-6/UVA-673.cpp) |
+| 习题6-2 | UVA-712 | S树 | [问题PDF](Chapter-6/UVA-712.pdf) | |
+| 习题6-3 | UVA-536 | 二叉树重建 | [问题PDF](Chapter-6/UVA-536.pdf) | |
+| 习题6-4 | UVA-439 | 骑士的移动 | [问题PDF](Chapter-6/UVA-439.pdf) | |
+| 习题6-5 | UVA-1600 | 巡逻机器人 | [问题PDF](Chapter-6/UVA-1600.pdf) | |
+| 习题6-6 | UVA-12166 | 修改天平 | [问题PDF](Chapter-6/UVA-12166.pdf) |  |
+| 习题6-7 | UVA-804 | Petri网模拟 | [问题PDF](Chapter-6/UVA-804.pdf) |  |
+| 习题6-8 | UVA-806 | 空间结构 | [问题PDF](Chapter-6/UVA-806.pdf) |  |
+| 习题6-9 | UVA-127 | 纸牌游戏 | [问题PDF](Chapter-6/UVA-127.pdf) |  |
+| 习题6-10 | UVA-246 | 10-20-30游戏 | [问题PDF](Chapter-6/UVA-246.pdf) | |
+| 习题6-11 | UVA-10410 | 树重建 | [问题PDF](Chapter-6/UVA-10410.pdf) |  |
+| 习题6-12 | UVA-810 | 筛子难题 | [问题PDF](Chapter-6/UVA-810.pdf) |  |
+| 习题6-13 | UVA-215 | 电子表格计算器 | [问题PDF](Chapter-6/UVA-215.pdf) |  |
+| 习题6-14 | UVA-12118 | 检查员的难题 | [问题PDF](Chapter-6/UVA-12118.pdf) |  |
