@@ -132,7 +132,7 @@
 | 题号 | UVA号 | 题目 | 题目PDF | 答案链接 | 
 :---: | :---: | :---: | :---: | :---: 
 | 习题6-1 | UVA-673 | 平衡的括号 | [问题PDF](Chapter-6/UVA-673.pdf) | [答案代码](Chapter-6/UVA-673.cpp) |
-| 习题6-2 | UVA-712 | S树 | [问题PDF](Chapter-6/UVA-712.pdf) | |
+| 习题6-2 | UVA-712 | S树 | [问题PDF](Chapter-6/UVA-712.pdf) | [答案代码](Chapter-6/UVA-712.cpp) |
 | 习题6-3 | UVA-536 | 二叉树重建 | [问题PDF](Chapter-6/UVA-536.pdf) | |
 | 习题6-4 | UVA-439 | 骑士的移动 | [问题PDF](Chapter-6/UVA-439.pdf) | |
 | 习题6-5 | UVA-1600 | 巡逻机器人 | [问题PDF](Chapter-6/UVA-1600.pdf) | |
