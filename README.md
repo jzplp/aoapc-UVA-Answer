@@ -135,7 +135,7 @@
 | 习题6-2 | UVA-712 | S树 | [问题PDF](Chapter-6/UVA-712.pdf) | [答案代码](Chapter-6/UVA-712.cpp) |
 | 习题6-3 | UVA-536 | 二叉树重建 | [问题PDF](Chapter-6/UVA-536.pdf) | [答案代码](Chapter-6/UVA-536.cpp) |
 | 习题6-4 | UVA-439 | 骑士的移动 | [问题PDF](Chapter-6/UVA-439.pdf) |  [答案代码](Chapter-6/UVA-439.cpp) |
-| 习题6-5 | UVA-1600 | 巡逻机器人 | [问题PDF](Chapter-6/UVA-1600.pdf) | |
+| 习题6-5 | UVA-1600 | 巡逻机器人 | [问题PDF](Chapter-6/UVA-1600.pdf) | [答案代码](Chapter-6/UVA-1600.cpp) |
 | 习题6-6 | UVA-12166 | 修改天平 | [问题PDF](Chapter-6/UVA-12166.pdf) |  |
 | 习题6-7 | UVA-804 | Petri网模拟 | [问题PDF](Chapter-6/UVA-804.pdf) |  |
 | 习题6-8 | UVA-806 | 空间结构 | [问题PDF](Chapter-6/UVA-806.pdf) |  |
