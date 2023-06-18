@@ -138,7 +138,7 @@
 | 习题6-5 | UVA-1600 | 巡逻机器人 | [问题PDF](Chapter-6/UVA-1600.pdf) | [答案代码](Chapter-6/UVA-1600.cpp) |
 | 习题6-6 | UVA-12166 | 修改天平 | [问题PDF](Chapter-6/UVA-12166.pdf) | [答案代码](Chapter-6/UVA-12166.cpp) |
 | 习题6-7 | UVA-804 | Petri网模拟 | [问题PDF](Chapter-6/UVA-804.pdf) | [答案代码](Chapter-6/UVA-804.cpp) |
-| 习题6-8 | UVA-806 | 空间结构 | [问题PDF](Chapter-6/UVA-806.pdf) |  |
+| 习题6-8 | UVA-806 | 空间结构 | [问题PDF](Chapter-6/UVA-806.pdf) | [答案代码](Chapter-6/UVA-806.cpp) |
 | 习题6-9 | UVA-127 | 纸牌游戏 | [问题PDF](Chapter-6/UVA-127.pdf) |  |
 | 习题6-10 | UVA-246 | 10-20-30游戏 | [问题PDF](Chapter-6/UVA-246.pdf) | |
 | 习题6-11 | UVA-10410 | 树重建 | [问题PDF](Chapter-6/UVA-10410.pdf) |  |
