@@ -141,7 +141,7 @@
 | 习题6-8 | UVA-806 | 空间结构 | [问题PDF](Chapter-6/UVA-806.pdf) | [答案代码](Chapter-6/UVA-806.cpp) |
 | 习题6-9 | UVA-127 | 纸牌游戏 | [问题PDF](Chapter-6/UVA-127.pdf) | [答案代码](Chapter-6/UVA-127.cpp) |
 | 习题6-10 | UVA-246 | 10-20-30游戏 | [问题PDF](Chapter-6/UVA-246.pdf) | [答案代码](Chapter-6/UVA-246.cpp) |
-| 习题6-11 | UVA-10410 | 树重建 | [问题PDF](Chapter-6/UVA-10410.pdf) |  |
+| 习题6-11 | UVA-10410 | 树重建 | [问题PDF](Chapter-6/UVA-10410.pdf) | [答案代码](Chapter-6/UVA-10410.cpp) |
 | 习题6-12 | UVA-810 | 筛子难题 | [问题PDF](Chapter-6/UVA-810.pdf) |  |
 | 习题6-13 | UVA-215 | 电子表格计算器 | [问题PDF](Chapter-6/UVA-215.pdf) |  |
 | 习题6-14 | UVA-12118 | 检查员的难题 | [问题PDF](Chapter-6/UVA-12118.pdf) |  |
