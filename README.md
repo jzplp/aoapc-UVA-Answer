@@ -145,3 +145,24 @@
 | 习题6-12 | UVA-810 | 筛子难题 | [问题PDF](Chapter-6/UVA-810.pdf) | [答案代码](Chapter-6/UVA-810.cpp) |
 | 习题6-13 | UVA-215 | 电子表格计算器 | [问题PDF](Chapter-6/UVA-215.pdf) | [答案代码](Chapter-6/UVA-215.cpp) |
 | 习题6-14 | UVA-12118 | 检查员的难题 | [问题PDF](Chapter-6/UVA-12118.pdf) | [答案代码](Chapter-6/UVA-12118.cpp) |
+
+#### 第七章 暴力求解法  
+* 例题答案
+
+| 题号 | UVA号 | 题目 | 题目PDF | 答案链接 | 
+:---: | :---: | :---: | :---: | :---: 
+| 例题7-1 | UVA-725 | 除法 | [问题PDF](Chapter-7/UVA-725.pdf) |  |
+| 例题7-2 | UVA-11059 | 最大乘积 | [问题PDF](Chapter-7/UVA-11059.pdf) |  |
+| 例题7-3 | UVA-10976 | 分数拆分 | [问题PDF](Chapter-7/UVA-10976.pdf) |  |
+| 例题7-4 | UVA-524 | 素数环 | [问题PDF](Chapter-7/UVA-524.pdf) |  |
+| 例题7-5 | UVA-129 | 困难的串 | [问题PDF](Chapter-7/UVA-129.pdf) |  |
+| 例题7-6 | UVA-140 | 带宽 | [问题PDF](Chapter-7/UVA-140.pdf) |  |
+| 例题7-7 | UVA-1354 | 天平难题 | [问题PDF](Chapter-7/UVA-1354.pdf) |  |
+| 例题7-8 | UVA-10603 | 倒水问题 | [问题PDF](Chapter-7/UVA-10603.pdf) |  |
+| 例题7-9 | UVA-1601 | 万圣节后的早晨 | [问题PDF](Chapter-7/UVA-1601.pdf) |  |
+| 例题7-10 | UVA-11212 | 编辑书稿 | [问题PDF](Chapter-7/UVA-11212.pdf) |  |
+| 例题7-11 | UVA-12325 | 宝箱 | [问题PDF](Chapter-7/UVA-12325.pdf) |  |
+| 例题7-12 | UVA-1343 | 旋转游戏 | [问题PDF](Chapter-7/UVA-1343.pdf) |  |
+| 例题7-13 | UVA-1374 | 快速幂计算 | [问题PDF](Chapter-7/UVA-1374.pdf) |  |
+| 例题7-14 | UVA-1602 | 网格动物 | [问题PDF](Chapter-7/UVA-1602.pdf) |  |
+| 例题7-15 | UVA-1603 | 破坏正方形 | [问题PDF](Chapter-7/UVA-1603.pdf) |  |
