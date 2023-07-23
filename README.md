@@ -151,10 +151,10 @@
 
 | 题号 | UVA号 | 题目 | 题目PDF | 答案链接 | 
 :---: | :---: | :---: | :---: | :---: 
-| 例题7-1 | UVA-725 | 除法 | [问题PDF](Chapter-7/UVA-725.pdf) |  |
-| 例题7-2 | UVA-11059 | 最大乘积 | [问题PDF](Chapter-7/UVA-11059.pdf) |  |
-| 例题7-3 | UVA-10976 | 分数拆分 | [问题PDF](Chapter-7/UVA-10976.pdf) |  |
-| 例题7-4 | UVA-524 | 素数环 | [问题PDF](Chapter-7/UVA-524.pdf) |  |
+| 例题7-1 | UVA-725 | 除法 | [问题PDF](Chapter-7/UVA-725.pdf) | [答案代码](Chapter-7/UVA-725.cpp) |
+| 例题7-2 | UVA-11059 | 最大乘积 | [问题PDF](Chapter-7/UVA-11059.pdf) | [答案代码](Chapter-7/UVA-11059.cpp) |
+| 例题7-3 | UVA-10976 | 分数拆分 | [问题PDF](Chapter-7/UVA-10976.pdf) | [答案代码](Chapter-7/UVA-10976.cpp) |
+| 例题7-4 | UVA-524 | 素数环 | [问题PDF](Chapter-7/UVA-524.pdf) | [答案代码](Chapter-7/UVA-524.cpp) |
 | 例题7-5 | UVA-129 | 困难的串 | [问题PDF](Chapter-7/UVA-129.pdf) |  |
 | 例题7-6 | UVA-140 | 带宽 | [问题PDF](Chapter-7/UVA-140.pdf) |  |
 | 例题7-7 | UVA-1354 | 天平难题 | [问题PDF](Chapter-7/UVA-1354.pdf) |  |
