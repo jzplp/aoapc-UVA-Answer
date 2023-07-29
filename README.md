@@ -156,7 +156,7 @@
 | 例题7-3 | UVA-10976 | 分数拆分 | [问题PDF](Chapter-7/UVA-10976.pdf) | [答案代码](Chapter-7/UVA-10976.cpp) |
 | 例题7-4 | UVA-524 | 素数环 | [问题PDF](Chapter-7/UVA-524.pdf) | [答案代码](Chapter-7/UVA-524.cpp) |
 | 例题7-5 | UVA-129 | 困难的串 | [问题PDF](Chapter-7/UVA-129.pdf) | [答案代码](Chapter-7/UVA-129.cpp) |
-| 例题7-6 | UVA-140 | 带宽 | [问题PDF](Chapter-7/UVA-140.pdf) |  |
+| 例题7-6 | UVA-140 | 带宽 | [问题PDF](Chapter-7/UVA-140.pdf) | [答案代码](Chapter-7/UVA-140.cpp) |
 | 例题7-7 | UVA-1354 | 天平难题 | [问题PDF](Chapter-7/UVA-1354.pdf) |  |
 | 例题7-8 | UVA-10603 | 倒水问题 | [问题PDF](Chapter-7/UVA-10603.pdf) |  |
 | 例题7-9 | UVA-1601 | 万圣节后的早晨 | [问题PDF](Chapter-7/UVA-1601.pdf) |  |
