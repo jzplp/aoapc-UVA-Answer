@@ -159,7 +159,7 @@
 | 例题7-6 | UVA-140 | 带宽 | [问题PDF](Chapter-7/UVA-140.pdf) | [答案代码](Chapter-7/UVA-140.cpp) |
 | 例题7-7 | UVA-1354 | 天平难题 | [问题PDF](Chapter-7/UVA-1354.pdf) | [答案代码](Chapter-7/UVA-1354.cpp) |
 | 例题7-8 | UVA-10603 | 倒水问题 | [问题PDF](Chapter-7/UVA-10603.pdf) | [答案代码](Chapter-7/UVA-10603.cpp) |
-| 例题7-9 | UVA-1601 | 万圣节后的早晨 | [问题PDF](Chapter-7/UVA-1601.pdf) |  |
+| 例题7-9 | UVA-1601 | 万圣节后的早晨 | [问题PDF](Chapter-7/UVA-1601.pdf) | [答案代码](Chapter-7/UVA-1601.cpp) |
 | 例题7-10 | UVA-11212 | 编辑书稿 | [问题PDF](Chapter-7/UVA-11212.pdf) |  |
 | 例题7-11 | UVA-12325 | 宝箱 | [问题PDF](Chapter-7/UVA-12325.pdf) |  |
 | 例题7-12 | UVA-1343 | 旋转游戏 | [问题PDF](Chapter-7/UVA-1343.pdf) |  |
