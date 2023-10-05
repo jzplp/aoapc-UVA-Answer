@@ -164,5 +164,5 @@
 | 例题7-11 | UVA-12325 | 宝箱 | [问题PDF](Chapter-7/UVA-12325.pdf) | [答案代码](Chapter-7/UVA-12325.cpp) |
 | 例题7-12 | UVA-1343 | 旋转游戏 | [问题PDF](Chapter-7/UVA-1343.pdf) | [答案代码](Chapter-7/UVA-1343.cpp) |
 | 例题7-13 | UVA-1374 | 快速幂计算 | [问题PDF](Chapter-7/UVA-1374.pdf) | [答案代码](Chapter-7/UVA-1374.cpp) |
-| 例题7-14 | UVA-1602 | 网格动物 | [问题PDF](Chapter-7/UVA-1602.pdf) |  |
+| 例题7-14 | UVA-1602 | 网格动物 | [问题PDF](Chapter-7/UVA-1602.pdf) | [答案代码](Chapter-7/UVA-1602.cpp) |
 | 例题7-15 | UVA-1603 | 破坏正方形 | [问题PDF](Chapter-7/UVA-1603.pdf) |  |
