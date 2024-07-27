@@ -3,6 +3,15 @@
 
 答案代码均为本人自己完成  
 
+## 环境信息
+Windows11, 代码编辑器VSCode，命令行PowerShell，使用MinGW，G++编译器。
+```sh
+# 编译，生成a.exe
+g++ 1.cpp
+# 执行 输入重定向到1.txt
+Get-Content 1.txt | ./a.exe
+```
+
 ## 答案目录
 #### 第三章 数组和字符串  
 * 例题答案
