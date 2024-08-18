@@ -175,3 +175,28 @@ Get-Content 1.txt | ./a.exe
 | 例题7-13 | UVA-1374 | 快速幂计算 | [问题PDF](Chapter-7/UVA-1374.pdf) | [答案代码](Chapter-7/UVA-1374.cpp) |
 | 例题7-14 | UVA-1602 | 网格动物 | [问题PDF](Chapter-7/UVA-1602.pdf) | [答案代码](Chapter-7/UVA-1602.cpp) |
 | 例题7-15 | UVA-1603 | 破坏正方形 | [问题PDF](Chapter-7/UVA-1603.pdf) | [答案代码](Chapter-7/UVA-1603.cpp) |
+
+
+* 习题答案
+
+| 题号 | UVA号 | 题目 | 题目PDF | 答案链接 | 
+:---: | :---: | :---: | :---: | :---: 
+| 习题7-1 | UVA-208 | 消防车 | [问题PDF](Chapter-7/UVA-208.pdf) |  |
+| 习题7-2 | UVA-225 | 黄金图形 | [问题PDF](Chapter-7/UVA-225.pdf) |  |
+| 习题7-3 | UVA-211 | 多米诺效应 | [问题PDF](Chapter-7/UVA-211.pdf) |  |
+| 习题7-4 | UVA-818 | 切断圆环链 | [问题PDF](Chapter-7/UVA-818.pdf) |  |
+| 习题7-5 | UVA-690 | 流水线调度 | [问题PDF](Chapter-7/UVA-690.pdf) |  |
+| 习题7-6 | UVA-12113 | 重叠的正方形 | [问题PDF](Chapter-7/UVA-12113.pdf) |  |
+| 习题7-7 | UVA-12558 | 埃及分数 | [问题PDF](Chapter-7/UVA-12558.pdf) |  |
+| 习题7-8 | UVA-12107 | 数字谜 | [问题PDF](Chapter-7/UVA-12107.pdf) |  |
+| 习题7-9 | UVA-1604 | 立体八数码问题 | [问题PDF](Chapter-7/UVA-1604.pdf) |  |
+| 习题7-10 | UVA-11214 | 守卫棋盘 | [问题PDF](Chapter-7/UVA-11214.pdf) |  |
+| 习题7-11 | UVA-12569 | 树上的机器人规划（简单版） | [问题PDF](Chapter-7/UVA-12569.pdf) |  |
+| 习题7-12 | UVA-1533 | 移动小球 | [问题PDF](Chapter-7/UVA-1533.pdf) |  |
+| 习题7-13 | UVA-817 | 数字表达式 | [问题PDF](Chapter-7/UVA-817.pdf) |  |
+| 习题7-14 | UVA-307 | 小木棍 | [问题PDF](Chapter-7/UVA-307.pdf) |  |
+| 习题7-15 | UVA-11882 | 最大的数 | [问题PDF](Chapter-7/UVA-11882.pdf) |  |
+| 习题7-16 | UVA-11846 | 找座位 | [问题PDF](Chapter-7/UVA-11846.pdf) |  |
+| 习题7-17 | UVA-11694 | Gokigen Naname谜题 | [问题PDF](Chapter-7/UVA-11694.pdf) |  |
+| 习题7-18 | UVA-10384 | 推门游戏 | [问题PDF](Chapter-7/UVA-10384.pdf) |  |
+
