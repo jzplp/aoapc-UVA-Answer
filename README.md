@@ -181,7 +181,7 @@ Get-Content 1.txt | ./a.exe
 
 | 题号 | UVA号 | 题目 | 题目PDF | 答案链接 | 
 :---: | :---: | :---: | :---: | :---: 
-| 习题7-1 | UVA-208 | 消防车 | [问题PDF](Chapter-7/UVA-208.pdf) |  |
+| 习题7-1 | UVA-208 | 消防车 | [问题PDF](Chapter-7/UVA-208.pdf) | [答案代码](Chapter-7/UVA-208.cpp) |
 | 习题7-2 | UVA-225 | 黄金图形 | [问题PDF](Chapter-7/UVA-225.pdf) |  |
 | 习题7-3 | UVA-211 | 多米诺效应 | [问题PDF](Chapter-7/UVA-211.pdf) |  |
 | 习题7-4 | UVA-818 | 切断圆环链 | [问题PDF](Chapter-7/UVA-818.pdf) |  |
