@@ -10,6 +10,8 @@ Windows11, 代码编辑器VSCode，命令行PowerShell，使用MinGW，G++编译
 g++ 1.cpp
 # 执行 输入重定向到1.txt
 Get-Content 1.txt | ./a.exe
+# 执行 输入重定向到1.txt 输出重定向到 out.txt
+Get-Content 1.txt | ./a.exe | Out-File out.txt
 ```
 
 ## 答案目录
