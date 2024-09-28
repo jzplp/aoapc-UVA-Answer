@@ -187,7 +187,7 @@ Get-Content 1.txt | ./a.exe | Out-File out.txt
 | 习题7-2 | UVA-225 | 黄金图形 | [问题PDF](Chapter-7/UVA-225.pdf) | [答案代码](Chapter-7/UVA-225.cpp) |
 | 习题7-3 | UVA-211 | 多米诺效应 | [问题PDF](Chapter-7/UVA-211.pdf) | [答案代码](Chapter-7/UVA-211.cpp) |
 | 习题7-4 | UVA-818 | 切断圆环链 | [问题PDF](Chapter-7/UVA-818.pdf) | [答案代码](Chapter-7/UVA-818.cpp) |
-| 习题7-5 | UVA-690 | 流水线调度 | [问题PDF](Chapter-7/UVA-690.pdf) |  |
+| 习题7-5 | UVA-690 | 流水线调度 | [问题PDF](Chapter-7/UVA-690.pdf) | [答案代码](Chapter-7/UVA-690.cpp) |
 | 习题7-6 | UVA-12113 | 重叠的正方形 | [问题PDF](Chapter-7/UVA-12113.pdf) |  |
 | 习题7-7 | UVA-12558 | 埃及分数 | [问题PDF](Chapter-7/UVA-12558.pdf) |  |
 | 习题7-8 | UVA-12107 | 数字谜 | [问题PDF](Chapter-7/UVA-12107.pdf) |  |
