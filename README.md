@@ -1,9 +1,11 @@
 # aoapc-UVA-Answer
 算法竞赛入门经典 刘汝佳 第二版 例题和习题 题解答案
 
-答案代码均为本人自己完成  
+答案代码均为本人自己完成。博客中的[算法竞赛入门经典]栏目中，还有部分解题说明：[https://jzplp.blog.csdn.net/](https://jzplp.blog.csdn.net/)
+
 
 ## 环境信息
+### Windows
 Windows11, 代码编辑器VSCode，命令行PowerShell，使用MinGW，G++编译器。
 ```sh
 # 编译，生成a.exe
@@ -12,6 +14,18 @@ g++ 1.cpp
 Get-Content 1.txt | ./a.exe
 # 执行 输入重定向到1.txt 输出重定向到 out.txt
 Get-Content 1.txt | ./a.exe | Out-File out.txt
+```
+
+### macOS
+M系列芯片，代码编辑器VSCode，操作系统自带编译器。
+
+```sh
+# 编译，生成a.out
+g++ 1.cpp -o a.out -std=c++11
+# 执行 输入重定向到1.txt
+./a.out < 1.txt
+# 执行 输入重定向到1.txt 输出重定向到 out.txt
+./a.out < 1.txt > out.txt
 ```
 
 ## 答案目录
@@ -190,7 +204,7 @@ Get-Content 1.txt | ./a.exe | Out-File out.txt
 | 习题7-5 | UVA-690 | 流水线调度 | [问题PDF](Chapter-7/UVA-690.pdf) | [答案代码](Chapter-7/UVA-690.cpp) |
 | 习题7-6 | UVA-12113 | 重叠的正方形 | [问题PDF](Chapter-7/UVA-12113.pdf) | [答案代码](Chapter-7/UVA-12113.cpp) |
 | 习题7-7 | UVA-12558 | 埃及分数 | [问题PDF](Chapter-7/UVA-12558.pdf) | [答案代码](Chapter-7/UVA-12558.cpp) |
-| 习题7-8 | UVA-12107 | 数字谜 | [问题PDF](Chapter-7/UVA-12107.pdf) |  |
+| 习题7-8 | UVA-12107 | 数字谜 | [问题PDF](Chapter-7/UVA-12107.pdf) | [答案代码](Chapter-7/UVA-12107.cpp) |
 | 习题7-9 | UVA-1604 | 立体八数码问题 | [问题PDF](Chapter-7/UVA-1604.pdf) |  |
 | 习题7-10 | UVA-11214 | 守卫棋盘 | [问题PDF](Chapter-7/UVA-11214.pdf) |  |
 | 习题7-11 | UVA-12569 | 树上的机器人规划（简单版） | [问题PDF](Chapter-7/UVA-12569.pdf) |  |
