@@ -205,7 +205,7 @@ g++ 1.cpp -o a.out -std=c++11
 | 习题7-6 | UVA-12113 | 重叠的正方形 | [问题PDF](Chapter-7/UVA-12113.pdf) | [答案代码](Chapter-7/UVA-12113.cpp) |
 | 习题7-7 | UVA-12558 | 埃及分数 | [问题PDF](Chapter-7/UVA-12558.pdf) | [答案代码](Chapter-7/UVA-12558.cpp) |
 | 习题7-8 | UVA-12107 | 数字谜 | [问题PDF](Chapter-7/UVA-12107.pdf) | [答案代码](Chapter-7/UVA-12107.cpp) |
-| 习题7-9 | UVA-1604 | 立体八数码问题 | [问题PDF](Chapter-7/UVA-1604.pdf) |  |
+| 习题7-9 | UVA-1604 | 立体八数码问题 | [问题PDF](Chapter-7/UVA-1604.pdf) | [答案代码](Chapter-7/UVA-1604.cpp) |
 | 习题7-10 | UVA-11214 | 守卫棋盘 | [问题PDF](Chapter-7/UVA-11214.pdf) |  |
 | 习题7-11 | UVA-12569 | 树上的机器人规划（简单版） | [问题PDF](Chapter-7/UVA-12569.pdf) |  |
 | 习题7-12 | UVA-1533 | 移动小球 | [问题PDF](Chapter-7/UVA-1533.pdf) |  |
