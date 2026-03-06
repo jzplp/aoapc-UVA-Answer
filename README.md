@@ -209,7 +209,7 @@ g++ 1.cpp -o a.out -std=c++11
 | 习题7-10 | UVA-11214 | 守卫棋盘 | [问题PDF](Chapter-7/UVA-11214.pdf) | [答案代码](Chapter-7/UVA-11214.cpp) |
 | 习题7-11 | UVA-12569 | 树上的机器人规划（简单版） | [问题PDF](Chapter-7/UVA-12569.pdf) | [答案代码](Chapter-7/UVA-12569.cpp) |
 | 习题7-12 | UVA-1533 | 移动小球 | [问题PDF](Chapter-7/UVA-1533.pdf) | [答案代码](Chapter-7/UVA-1533.cpp) |
-| 习题7-13 | UVA-817 | 数字表达式 | [问题PDF](Chapter-7/UVA-817.pdf) |  |
+| 习题7-13 | UVA-817 | 数字表达式 | [问题PDF](Chapter-7/UVA-817.pdf) | [答案代码](Chapter-7/UVA-817.cpp) |
 | 习题7-14 | UVA-307 | 小木棍 | [问题PDF](Chapter-7/UVA-307.pdf) |  |
 | 习题7-15 | UVA-11882 | 最大的数 | [问题PDF](Chapter-7/UVA-11882.pdf) |  |
 | 习题7-16 | UVA-11846 | 找座位 | [问题PDF](Chapter-7/UVA-11846.pdf) |  |
