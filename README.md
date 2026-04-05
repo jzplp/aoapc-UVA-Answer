@@ -214,7 +214,7 @@ g++ 1.cpp -o a.out -std=c++11
 | 习题7-15 | UVA-11882 | 最大的数 | [问题PDF](Chapter-7/UVA-11882.pdf) | [答案代码](Chapter-7/UVA-11882.cpp) |
 | 习题7-16 | UVA-11846 | 找座位 | [问题PDF](Chapter-7/UVA-11846.pdf) | [答案代码](Chapter-7/UVA-11846.cpp) |
 | 习题7-17 | UVA-11694 | Gokigen Naname谜题 | [问题PDF](Chapter-7/UVA-11694.pdf) | [答案代码](Chapter-7/UVA-11694.cpp) |
-| 习题7-18 | UVA-10384 | 推门游戏 | [问题PDF](Chapter-7/UVA-10384.pdf) |  |
+| 习题7-18 | UVA-10384 | 推门游戏 | [问题PDF](Chapter-7/UVA-10384.pdf) | [答案代码](Chapter-7/UVA-10384.cpp) |
 
 ## 相关网站
 - Virtual Judge\
