@@ -29,8 +29,8 @@ g++ 1.cpp -o a.out -std=c++11
 ```
 
 ## 答案目录
-#### 第三章 数组和字符串  
-* 例题答案
+### 第三章 数组和字符串  
+#### 例题答案
 
 | 题号 | UVA号 | 题目 | 题目PDF | 答案链接 | 
 :---: | :---: | :---: | :---: | :---: 
@@ -41,7 +41,7 @@ g++ 1.cpp -o a.out -std=c++11
 | 例题3-5 | UVA-1583 | 生成元 | [问题PDF](Chapter-3/UVA-1583.pdf) | [答案代码](Chapter-3/UVA-1583.cpp) |
 | 例题3-6 | UVA-1584 | 环状序列 | [问题PDF](Chapter-3/UVA-1584.pdf) | [答案代码](Chapter-3/UVA-1584.cpp) |
 
-* 习题答案
+#### 习题答案
 
 | 题号 | UVA号 | 题目 | 题目PDF | 答案链接 | 
 :---: | :---: | :---: | :---: | :---: 
@@ -58,8 +58,8 @@ g++ 1.cpp -o a.out -std=c++11
 | 习题3-11 | UVA-1588 | 换低挡装置 | [问题PDF](Chapter-3/UVA-1588.pdf) | [答案代码](Chapter-3/UVA-1588.cpp) |
 | 习题3-12 | UVA-11809 | 浮点数 | [问题PDF](Chapter-3/UVA-11809.pdf) |  [答案代码](Chapter-3/UVA-11809.cpp) |
 
-#### 第四章 函数和递归  
-* 例题答案
+### 第四章 函数和递归  
+#### 例题答案
 
 | 题号 | UVA号 | 题目 | 题目PDF | 答案链接 | 
 :---: | :---: | :---: | :---: | :---: 
@@ -70,7 +70,7 @@ g++ 1.cpp -o a.out -std=c++11
 | 例题4-5 | UVA-512 | 追踪电子表格中的单元格 | [问题PDF](Chapter-4/UVA-512.pdf) | [答案代码](Chapter-4/UVA-512.cpp) |
 | 例题4-6 | UVA-12412 | 师兄帮帮忙 | [问题PDF](Chapter-4/UVA-12412.pdf) | [答案代码](Chapter-4/UVA-12412.cpp) |
 
-* 习题答案
+#### 习题答案
 
 | 题号 | UVA号 | 题目 | 题目PDF | 答案链接 | 
 :---: | :---: | :---: | :---: | :---: 
@@ -85,8 +85,8 @@ g++ 1.cpp -o a.out -std=c++11
 | 习题4-9 | UVA-1591 | 数据挖掘 | [问题PDF](Chapter-4/UVA-1591.pdf) | [答案代码](Chapter-4/UVA-1591.cpp) |
 | 习题4-10 | UVA-815 | 洪水！ | [问题PDF](Chapter-4/UVA-815.pdf) | [答案代码](Chapter-4/UVA-815.cpp) |
 
-#### 第五章 C++与STL入门  
-* 例题答案
+### 第五章 C++与STL入门  
+#### 例题答案
 
 | 题号 | UVA号 | 题目 | 题目PDF | 答案链接 | 
 :---: | :---: | :---: | :---: | :---: 
@@ -103,7 +103,7 @@ g++ 1.cpp -o a.out -std=c++11
 | 例题5-11 | UVA-814 | 邮件传输代理的交互 | [问题PDF](Chapter-5/UVA-814.pdf) | [答案代码](Chapter-5/UVA-814.cpp) |
 | 例题5-12 | UVA-221 | 城市正视图 | [问题PDF](Chapter-5/UVA-221.pdf) | [答案代码](Chapter-5/UVA-221.cpp) |
 
-* 习题答案
+#### 习题答案
 
 | 题号 | UVA号 | 题目 | 题目PDF | 答案链接 | 
 :---: | :---: | :---: | :---: | :---: 
@@ -124,8 +124,8 @@ g++ 1.cpp -o a.out -std=c++11
 | 习题5-15 | UVA-12333 | Fibonacci的复仇 | [问题PDF](Chapter-5/UVA-12333.pdf) | [答案代码](Chapter-5/UVA-12333.cpp) |
 | 习题5-16 | UVA-212 | 医院设备利用 | [问题PDF](Chapter-5/UVA-212.pdf) | [答案代码](Chapter-5/UVA-212.cpp) |
 
-#### 第六章 数据结构基础  
-* 例题答案
+### 第六章 数据结构基础  
+#### 例题答案
 
 | 题号 | UVA号 | 题目 | 题目PDF | 答案链接 | 
 :---: | :---: | :---: | :---: | :---: 
@@ -146,13 +146,13 @@ g++ 1.cpp -o a.out -std=c++11
 | 例题6-15 | UVA-10305 | 给任务排序 | [问题PDF](Chapter-6/UVA-10305.pdf) | [答案代码](Chapter-6/UVA-10305.cpp) |
 | 例题6-16 | UVA-10129 | 单词 | [问题PDF](Chapter-6/UVA-10129.pdf) | [答案代码](Chapter-6/UVA-10129.cpp) |
 | 例题6-17 | UVA-10562 | 看图写树 | [问题PDF](Chapter-6/UVA-10562.pdf) | [答案代码](Chapter-6/UVA-10562.cpp) |
-| 例题6-18* | UVA-12171 | 雕塑 | [问题PDF](Chapter-6/UVA-12171.pdf) | [答案代码](Chapter-6/UVA-12171.cpp) |
+| *例题6-18 | UVA-12171 | 雕塑 | [问题PDF](Chapter-6/UVA-12171.pdf) | [答案代码](Chapter-6/UVA-12171.cpp) |
 | 例题6-19 | UVA-1572 | 自组合 | [问题PDF](Chapter-6/UVA-1572.pdf) | [答案代码](Chapter-6/UVA-1572.cpp) |
 | 例题6-20 | UVA-1599 | 理想路径 | [问题PDF](Chapter-6/UVA-1599.pdf) | [答案代码](Chapter-6/UVA-1599.cpp) |
 | 例题6-21 | UVA-506 | 系统依赖 | [问题PDF](Chapter-6/UVA-506.pdf) | [答案代码](Chapter-6/UVA-506.cpp) |
-| 例题6-22* | UVA-11853 | 战场 | [问题PDF](Chapter-6/UVA-11853.pdf) | [答案代码](Chapter-6/UVA-11853.cpp) |
+| *例题6-22 | UVA-11853 | 战场 | [问题PDF](Chapter-6/UVA-11853.pdf) | [答案代码](Chapter-6/UVA-11853.cpp) |
 
-* 习题答案
+#### 习题答案
 
 | 题号 | UVA号 | 题目 | 题目PDF | 答案链接 | 
 :---: | :---: | :---: | :---: | :---: 
@@ -171,8 +171,8 @@ g++ 1.cpp -o a.out -std=c++11
 | 习题6-13 | UVA-215 | 电子表格计算器 | [问题PDF](Chapter-6/UVA-215.pdf) | [答案代码](Chapter-6/UVA-215.cpp) |
 | 习题6-14 | UVA-12118 | 检查员的难题 | [问题PDF](Chapter-6/UVA-12118.pdf) | [答案代码](Chapter-6/UVA-12118.cpp) |
 
-#### 第七章 暴力求解法  
-* 例题答案
+### 第七章 暴力求解法  
+#### 例题答案
 
 | 题号 | UVA号 | 题目 | 题目PDF | 答案链接 | 
 :---: | :---: | :---: | :---: | :---: 
@@ -192,8 +192,7 @@ g++ 1.cpp -o a.out -std=c++11
 | 例题7-14 | UVA-1602 | 网格动物 | [问题PDF](Chapter-7/UVA-1602.pdf) | [答案代码](Chapter-7/UVA-1602.cpp) |
 | 例题7-15 | UVA-1603 | 破坏正方形 | [问题PDF](Chapter-7/UVA-1603.pdf) | [答案代码](Chapter-7/UVA-1603.cpp) |
 
-
-* 习题答案
+#### 习题答案
 
 | 题号 | UVA号 | 题目 | 题目PDF | 答案链接 | 
 :---: | :---: | :---: | :---: | :---: 
@@ -215,6 +214,31 @@ g++ 1.cpp -o a.out -std=c++11
 | 习题7-16 | UVA-11846 | 找座位 | [问题PDF](Chapter-7/UVA-11846.pdf) | [答案代码](Chapter-7/UVA-11846.cpp) |
 | 习题7-17 | UVA-11694 | Gokigen Naname谜题 | [问题PDF](Chapter-7/UVA-11694.pdf) | [答案代码](Chapter-7/UVA-11694.cpp) |
 | 习题7-18 | UVA-10384 | 推门游戏 | [问题PDF](Chapter-7/UVA-10384.pdf) | [答案代码](Chapter-7/UVA-10384.cpp) |
+
+### 第八章 高效算法设计  
+#### 例题答案
+
+| 题号 | UVA号 | 题目 | 题目PDF | 答案链接 | 
+:---: | :---: | :---: | :---: | :---: 
+| 例题8-1 | UVA-120 | 煎饼 | [问题PDF](Chapter-8/UVA-120.pdf) |  |
+| 例题8-2 | UVA-1605 | 联合国大楼 | [问题PDF](Chapter-8/UVA-1605.pdf) |  |
+| 例题8-3 | UVA-1152 | 和为0的4个值 | [问题PDF](Chapter-8/UVA-1152.pdf) |  |
+| *例题8-4 | UVA-11134 | 传说中的车 | [问题PDF](Chapter-8/UVA-11134.pdf) |  |
+| 例题8-5 | UVA-11054 | Gergovia的酒交易 | [问题PDF](Chapter-8/UVA-11054.pdf) |  |
+| *例题8-6 | UVA-1606 | 两亲性分子 | [问题PDF](Chapter-8/UVA-1606.pdf) |  |
+| 例题8-7 | UVA-11572 | 唯一的雪花 | [问题PDF](Chapter-8/UVA-11572.pdf) |  |
+| **例题8-8 | UVA-1471 | 防线 | [问题PDF](Chapter-8/UVA-1471.pdf) |  |
+| **例题8-9 | UVA-1451 | 平均值 | [问题PDF](Chapter-8/UVA-1451.pdf) |  |
+| 例题8-10 | UVA-714 | 抄书 | [问题PDF](Chapter-8/UVA-714.pdf) |  |
+| 例题8-11 | UVA-10954 | 全部相加 | [问题PDF](Chapter-8/UVA-10954.pdf) |  |
+| 例题8-12 | UVA-12627 | 奇怪的气球膨胀 | [问题PDF](Chapter-8/UVA-12627.pdf) |  |
+| 例题8-13 | UVA-11093 | 环形跑道 | [问题PDF](Chapter-8/UVA-11093.pdf) |  |
+| *例题8-14 | UVA-1607 | 与非门电路 | [问题PDF](Chapter-8/UVA-1607.pdf) |  |
+| 例题8-15 | UVA-12174 | Shuffle的播放记录 | [问题PDF](Chapter-8/UVA-12174.pdf) |  |
+| *例题8-16 | UVA-1608 | 不无聊的序列 | [问题PDF](Chapter-8/UVA-1608.pdf) |  |
+| *例题8-17 | UVA-1609 | 不公平竞赛 | [问题PDF](Chapter-8/UVA-1609.pdf) |  |
+| *例题8-18 | UVA-1442 | 洞穴 | [问题PDF](Chapter-8/UVA-1442.pdf) |  |
+| *例题8-19 | UVA-12265 | 贩卖土地 | [问题PDF](Chapter-8/UVA-12265.pdf) |  |
 
 ## 相关网站
 - Virtual Judge\
