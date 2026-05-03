@@ -224,7 +224,7 @@ g++ 1.cpp -o a.out -std=c++11
 | 例题8-2 | UVA-1605 | 联合国大楼 | [问题PDF](Chapter-8/UVA-1605.pdf) | [答案代码](Chapter-8/UVA-1605.cpp) |
 | 例题8-3 | UVA-1152 | 和为0的4个值 | [问题PDF](Chapter-8/UVA-1152.pdf) | [答案代码](Chapter-8/UVA-1152.cpp) |
 | *例题8-4 | UVA-11134 | 传说中的车 | [问题PDF](Chapter-8/UVA-11134.pdf) | [答案代码](Chapter-8/UVA-11134.cpp) |
-| 例题8-5 | UVA-11054 | Gergovia的酒交易 | [问题PDF](Chapter-8/UVA-11054.pdf) |  |
+| 例题8-5 | UVA-11054 | Gergovia的酒交易 | [问题PDF](Chapter-8/UVA-11054.pdf) | [答案代码](Chapter-8/UVA-11054.cpp) |
 | *例题8-6 | UVA-1606 | 两亲性分子 | [问题PDF](Chapter-8/UVA-1606.pdf) |  |
 | 例题8-7 | UVA-11572 | 唯一的雪花 | [问题PDF](Chapter-8/UVA-11572.pdf) |  |
 | **例题8-8 | UVA-1471 | 防线 | [问题PDF](Chapter-8/UVA-1471.pdf) |  |
