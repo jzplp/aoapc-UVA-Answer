@@ -228,8 +228,8 @@ g++ 1.cpp -o a.out -std=c++11
 | *例题8-6 | UVA-1606 | 两亲性分子 | [问题PDF](Chapter-8/UVA-1606.pdf) | [答案代码](Chapter-8/UVA-1606.cpp) |
 | 例题8-7 | UVA-11572 | 唯一的雪花 | [问题PDF](Chapter-8/UVA-11572.pdf) | [答案代码](Chapter-8/UVA-11572.cpp) |
 | **例题8-8 | UVA-1471 | 防线 | [问题PDF](Chapter-8/UVA-1471.pdf) | [答案代码](Chapter-8/UVA-1471.cpp) |
-| **例题8-9 | UVA-1451 | 平均值 | [问题PDF](Chapter-8/UVA-1451.pdf) | [答案代码](Chapter-8/UVA-1451.cpp)  |
-| 例题8-10 | UVA-714 | 抄书 | [问题PDF](Chapter-8/UVA-714.pdf) |  |
+| **例题8-9 | UVA-1451 | 平均值 | [问题PDF](Chapter-8/UVA-1451.pdf) | [答案代码](Chapter-8/UVA-1451.cpp) |
+| 例题8-10 | UVA-714 | 抄书 | [问题PDF](Chapter-8/UVA-714.pdf) | [答案代码](Chapter-8/UVA-714.cpp) |
 | 例题8-11 | UVA-10954 | 全部相加 | [问题PDF](Chapter-8/UVA-10954.pdf) |  |
 | 例题8-12 | UVA-12627 | 奇怪的气球膨胀 | [问题PDF](Chapter-8/UVA-12627.pdf) |  |
 | 例题8-13 | UVA-11093 | 环形跑道 | [问题PDF](Chapter-8/UVA-11093.pdf) |  |
