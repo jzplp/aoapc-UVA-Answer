@@ -236,7 +236,7 @@ g++ 1.cpp -o a.out -std=c++11
 | *例题8-14 | UVA-1607 | 与非门电路 | [问题PDF](Chapter-8/UVA-1607.pdf) | [答案代码](Chapter-8/UVA-1607.cpp) |
 | 例题8-15 | UVA-12174 | Shuffle的播放记录 | [问题PDF](Chapter-8/UVA-12174.pdf) | [答案代码](Chapter-8/UVA-12174.cpp) |
 | *例题8-16 | UVA-1608 | 不无聊的序列 | [问题PDF](Chapter-8/UVA-1608.pdf) | [答案代码](Chapter-8/UVA-1608.cpp) |
-| *例题8-17 | UVA-1609 | 不公平竞赛 | [问题PDF](Chapter-8/UVA-1609.pdf) |  |
+| *例题8-17 | UVA-1609 | 不公平竞赛 | [问题PDF](Chapter-8/UVA-1609.pdf) | [答案代码](Chapter-8/UVA-1609.cpp) |
 | *例题8-18 | UVA-1442 | 洞穴 | [问题PDF](Chapter-8/UVA-1442.pdf) |  |
 | *例题8-19 | UVA-12265 | 贩卖土地 | [问题PDF](Chapter-8/UVA-12265.pdf) |  |
 
