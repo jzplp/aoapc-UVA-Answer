@@ -240,6 +240,39 @@ g++ 1.cpp -o a.out -std=c++11
 | *例题8-18 | UVA-1442 | 洞穴 | [问题PDF](Chapter-8/UVA-1442.pdf) | [答案代码](Chapter-8/UVA-1442.cpp) |
 | **例题8-19 | UVA-12265 | 贩卖土地 | [问题PDF](Chapter-8/UVA-12265.pdf) | [答案代码](Chapter-8/UVA-12265.cpp) |
 
+#### 习题答案
+
+| 题号 | UVA号 | 题目 | 题目PDF | 答案链接 | 
+:---: | :---: | :---: | :---: | :---: 
+| 习题8-1 | UVA-1149 | 装箱 | [问题PDF](Chapter-8/UVA-1149.pdf) |  |
+| 习题8-2 | UVA-1610 | 聚会游戏 | [问题PDF](Chapter-8/UVA-1610.pdf) |  |
+| 习题8-3 | UVA-12545 | 比特变换器 | [问题PDF](Chapter-8/UVA-12545.pdf) |  |
+| 习题8-4 | UVA-11491 | 奖品的价值 | [问题PDF](Chapter-8/UVA-11491.pdf) |  |
+| 习题8-5 | UVA-177 | 折纸痕 | [问题PDF](Chapter-8/UVA-177.pdf) |  |
+| 习题8-6 | UVA-1611 | 起重机 | [问题PDF](Chapter-8/UVA-1611.pdf) |  |
+| 习题8-7 | UVA-11925 | 生成排列 | [问题PDF](Chapter-8/UVA-11925.pdf) |  |
+| 习题8-8 | UVA-1612 | 猜名次 | [问题PDF](Chapter-8/UVA-1612.pdf) |  |
+| 习题8-9 | UVA-1613 | K度图的着色 | [问题PDF](Chapter-8/UVA-1613.pdf) |  |
+| 习题8-10 | UVA-1614 | 奇怪的股市 | [问题PDF](Chapter-8/UVA-1614.pdf) |  |
+| 习题8-11 | UVA-1615 | 高速公路 | [问题PDF](Chapter-8/UVA-1615.pdf) |  |
+| 习题8-12 | UVA-1153 | 顾客是上帝 | [问题PDF](Chapter-8/UVA-1153.pdf) |  |
+| 习题8-13 | UVA-10570 | 外星人聚会 | [问题PDF](Chapter-8/UVA-10570.pdf) |  |
+| 习题8-14 | UVA-1616 | 商队抢劫者 | [问题PDF](Chapter-8/UVA-1616.pdf) |  |
+| 习题8-15 | UVA-1617 | 笔记本 | [问题PDF](Chapter-8/UVA-1617.pdf) |  |
+| 习题8-16 | UVA-1618 | 弱键 | [问题PDF](Chapter-8/UVA-1618.pdf) |  |
+| 习题8-17 | UVA-11536 | 最短子序列 | [问题PDF](Chapter-8/UVA-11536.pdf) |  |
+| 习题8-18 | UVA-1619 | 感觉不错 | [问题PDF](Chapter-8/UVA-1619.pdf) |  |
+| 习题8-19 | UVA-1312 | 球场 | [问题PDF](Chapter-8/UVA-1312.pdf) |  |
+| 习题8-20 | UVA-1620 | 懒惰的苏珊 | [问题PDF](Chapter-8/UVA-1620.pdf) |  |
+| 习题8-21 | UVA-1621 | 跳来跳去 | [问题PDF](Chapter-8/UVA-1621.pdf) |  |
+| 习题8-22 | UVA-1622 | 机器人 | [问题PDF](Chapter-8/UVA-1622.pdf) |  |
+| 习题8-23 | UVA-1623 | 神龙喝水 | [问题PDF](Chapter-8/UVA-1623.pdf) |  |
+| 习题8-24 | UVA-10366 | 龙头滴水 | [问题PDF](Chapter-8/UVA-10366.pdf) |  |
+| 习题8-25 | UVA-11175 | 有向图D和E | [问题PDF](Chapter-8/UVA-11175.pdf) |  |
+| 习题8-26 | UVA-12559 | 找黑圆 | [问题PDF](Chapter-8/UVA-12559.pdf) |  |
+| 习题8-27 | UVA-1580 | 海盗的宝箱 | [问题PDF](Chapter-8/UVA-1580.pdf) |  |
+| 习题8-28 | UVA-1624 | 打结 | [问题PDF](Chapter-8/UVA-1624.pdf) |  |
+
 ## 相关网站
 - Virtual Judge\
 https://vjudge.net/
