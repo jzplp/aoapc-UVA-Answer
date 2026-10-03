@@ -246,7 +246,7 @@ g++ 1.cpp -o a.out -std=c++11
 :---: | :---: | :---: | :---: | :---: 
 | 习题8-1 | UVA-1149 | 装箱 | [问题PDF](Chapter-8/UVA-1149.pdf) | [答案代码](Chapter-8/UVA-1149.cpp) |
 | 习题8-2 | UVA-1610 | 聚会游戏 | [问题PDF](Chapter-8/UVA-1610.pdf) | [答案代码](Chapter-8/UVA-1610.cpp) |
-| 习题8-3 | UVA-12545 | 比特变换器 | [问题PDF](Chapter-8/UVA-12545.pdf) |  |
+| 习题8-3 | UVA-12545 | 比特变换器 | [问题PDF](Chapter-8/UVA-12545.pdf) | [答案代码](Chapter-8/UVA-12545.cpp) |
 | 习题8-4 | UVA-11491 | 奖品的价值 | [问题PDF](Chapter-8/UVA-11491.pdf) |  |
 | 习题8-5 | UVA-177 | 折纸痕 | [问题PDF](Chapter-8/UVA-177.pdf) |  |
 | 习题8-6 | UVA-1611 | 起重机 | [问题PDF](Chapter-8/UVA-1611.pdf) |  |
