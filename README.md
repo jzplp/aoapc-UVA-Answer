@@ -250,7 +250,7 @@ g++ 1.cpp -o a.out -std=c++11
 | 习题8-4 | UVA-11491 | 奖品的价值 | [问题PDF](Chapter-8/UVA-11491.pdf) | [答案代码](Chapter-8/UVA-11491.cpp) |
 | 习题8-5 | UVA-177 | 折纸痕 | [问题PDF](Chapter-8/UVA-177.pdf) | [答案代码](Chapter-8/UVA-177.cpp) |
 | 习题8-6 | UVA-1611 | 起重机 | [问题PDF](Chapter-8/UVA-1611.pdf) | [答案代码](Chapter-8/UVA-1611.cpp) |
-| 习题8-7 | UVA-11925 | 生成排列 | [问题PDF](Chapter-8/UVA-11925.pdf) |  |
+| 习题8-7 | UVA-11925 | 生成排列 | [问题PDF](Chapter-8/UVA-11925.pdf) | [答案代码](Chapter-8/UVA-11925.cpp) |
 | 习题8-8 | UVA-1612 | 猜名次 | [问题PDF](Chapter-8/UVA-1612.pdf) |  |
 | 习题8-9 | UVA-1613 | K度图的着色 | [问题PDF](Chapter-8/UVA-1613.pdf) |  |
 | 习题8-10 | UVA-1614 | 奇怪的股市 | [问题PDF](Chapter-8/UVA-1614.pdf) |  |
